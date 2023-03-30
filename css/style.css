@@ -39,7 +39,6 @@ div{
 background-color: #0F0E17;
 width: 31%;
 margin: 1%;
-height: 108px;
 }
 
 img{
@@ -47,7 +46,7 @@ img{
 }
 
 .credits{
-    display: inline-block;
+    width:70%;
     padding: 10px;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
